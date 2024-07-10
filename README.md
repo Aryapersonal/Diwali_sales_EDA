@@ -85,5 +85,7 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 
 ## Acknowledgments
 Thanks to the contributors of the libraries used in this project: Pandas, NumPy, Matplotlib, and Seaborn.
+
 Thanks to the creators of the Diwali Sales dataset for providing the data used in this analysis.
+
 Special thanks to the Prodigy Infotech to provide me this opportunity to showcase my skills in Data cleaning,EDA and forming meaningul insights.
