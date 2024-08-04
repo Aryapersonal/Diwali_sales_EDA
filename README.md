@@ -18,7 +18,8 @@ This project demonstrates data cleaning, visualization, and exploratory data ana
 4. [Features](#features)
 5. [Visualizations and Insights](#visualizations-insights)
 6. [Conclusion](#conclusion)
-7. [Author Information](#Author-Information)
+7. [Acknowledgments](#acknowledgments)
+8. [Author Information](#Author-Information)
 
 
 ## Dataset
@@ -72,13 +73,17 @@ The analysis provides valuable insights into the sales performance of various pr
 ## Conclusion 
 In this project showing Diwali Sales in various States , I performed comprehensive data cleaning, visualization, and exploratory data analysis (EDA).  My primary focus was to understand the sales trends and patterns across various categorical variables such as Age Group, Gender ,product category, product ID, states and so on.Overall, the project successfully demonstrated the power of data cleaning and visualization techniques in uncovering valuable insights from a sales dataset. The findings can be utilized by businesses to strategize their marketing efforts, optimize inventory, and improve customer targeting.
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue in this repository.
-
 ## Acknowledgments
 Thanks to the contributors of the libraries used in this project: Pandas, NumPy, Matplotlib, and Seaborn.
 
 Thanks to the creators of the Diwali Sales dataset for providing the data used in this analysis.
 
 Special thanks to the Prodigy Infotech to provide me this opportunity to showcase my skills in Data cleaning,EDA and forming meaningul insights.
+
+
+### AUTHOR : ARYA S
+
+### LinkedIn : www.linkedin.com/in/arya-dataanalyst
+
+### Thank You for reading!
+
