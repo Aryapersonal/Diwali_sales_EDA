@@ -9,23 +9,16 @@ TASK - **CREATE  BAR CHART OR HISTOGRAM TO VISUALIZE THE DISTRIBUTION OF A CATEG
 
 This project demonstrates data cleaning, visualization, and exploratory data analysis (EDA) using Python on a Diwali Sales dataset. The focus is on understanding sales trends and patterns across various categorical variables such as product category, gender, product ID, and states. The analysis includes the creation of bar charts and count plots and the removal of null and blank values.
 
-Project Overview
 
-Table of Contents
+**Table of Contents**
 
-Dataset
-
-Installation
-
-Features
-
-Insights/Findings
-
-Conclusion
-
-Contributing
-
-Acknowledgments
+1. [Overview](#overview)
+2. [Dataset](#dataset)
+3. [Installation](#installation)
+4. [Features](#features)
+5. [Visualizations and Insights](#visualizations-insights)
+6. [Conclusion](#conclusion)
+7. [Author Information](#Author-Information)
 
 
 ## Dataset
@@ -42,11 +35,11 @@ To run this project, you will need Python and Jupyter Notebook installed on your
 
 **Exploratory Data Analysis (EDA)** : Analysis of sales data across categorical variables such as product category, gender, product ID, and states.
 
-## Insights/Findings:
+## Visualizations and Insights:
 
 The analysis provides valuable insights into the sales performance of various products during Diwali.
 
-## Key findings include:
+### Key findings include:
 
 ### 1) The total count of females is more than males nearly  double the size. 
 
